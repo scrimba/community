@@ -10,4 +10,6 @@ All content created on Scrimba is MIT licensed, meaning that other people are fr
 
 It is your responsibility to make sure you have the appropriate copyright to publish the content you publish on Scrimba. Also, you are not allowed to publish other people’s private information without their authorization. You are not allowed to add links to viruses or any other computer programming routine or engine that might be harmful.
 
-Scrimba reserves to right to remove you from our platform if we think you are behaving badly.
+We can remove you from our platform if we think you are behaving badly.
+
+Scrimba also reserves the right to change the Terms and Conditions without notice.
