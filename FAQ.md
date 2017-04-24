@@ -1,3 +1,15 @@
+## What is Scrimba?
+Scrimba is a superior way to teach and learn coding. It's both a new video format for communicating code and a platform where everybody can share their code skills.
+
+## What's the benefits over traditional video?
+Here's the main benefits Scrimba has over normal video:
+
+- Much easier creation process
+- Interactive (pause and edit the code)
+- Better mobile experience (we adjust the content after the screen size)
+- Light weight (1% of video in bytes)
+- Indexable
+
 ## How do I create a Scrimba screencast?
 Check [this Medium post](https://medium.com/scrimba/how-to-create-a-scrimba-screencast-e5ca244bc531) for detailed instructions.
 
@@ -18,6 +30,9 @@ Topic pages are added manually by the team. But we're very open for suggestions!
 
 ## Can I create paid courses on Scrimba?
 Not yet, but you will in the future.
+
+## Can I embed Scrimba screencasts?
+Yes! Here's a [JSbin that demonstates how](https://jsbin.com/fiqiwet/edit?html,output).
 
 ## Why are you building Scrimba?
 Our goal is to make online learning *better* than in-person learning. 
