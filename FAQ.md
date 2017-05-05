@@ -1,5 +1,5 @@
 ## What is Scrimba?
-Scrimba is a platform for creating *truly interactive* coding screencasts. A Scrimba screencast may look like a normal video at first sight, however it's actually much better. As a viewer you can pause the screencasts and edit the code whenever you want. Scrimba is open everybody.
+Scrimba is a platform for creating *truly interactive* coding screencasts. A Scrimba screencast might look like a normal video at first sight, however it's something much better. As a viewer you can pause the screencasts and edit the code whenever you want.
 
 ## What are the benefits over normal videos?
 
@@ -14,7 +14,7 @@ Scrimba makes life *easier* for the creators and make the learning experience *b
 ## How do I create a Scrimba screencast?
 Check [this Medium post](https://medium.com/scrimba/how-to-create-a-scrimba-screencast-e5ca244bc531) for detailed instructions.
 
-## Can I edit the screencast after I've created it?
+## Can I edit a recording after I've created it?
 Not yet (we're working on this feature). However, you can record your screencast in chapters. When you're doing a recording, and hit *Finish*, it'll be saved as a chapter. You can then add a next chapter by doing a new recording. If you mess up during a recording, simply hit *Cancel*, and we'll discard the recording.
 
 ## Which languages does Scrimba support?
@@ -33,12 +33,10 @@ Topic pages are added manually by the team. But we're very open for suggestions!
 Not yet, but you will in the future.
 
 ## Can I embed Scrimba screencasts?
-Yes! Here's a [JS Bin that demonstates how](https://jsbin.com/fiqiwet/edit?html,output).
+Yes! Once you've created a screencast, hit the settings icon below the player. There you'll find the embed code. Here's a [live example](http://davekiss.com/using-es6-sets-to-create-a-unique-javascript-array-without-duplicates/) of how an ebmedded Scrimba looks like.
 
 ## Why are you building Scrimba?
-Our goal is to make online learning *better* than in-person learning. 
-
-Here's why this is important:
+Our goal is to make online learning *better* than in-person learning. Here's why this is important:
 
 As education has moved from in-person to online, the *in-person learning experience* has been reduced to a video with a comment field. This is a **big step backwards** for both the teacher and the student. 
 
