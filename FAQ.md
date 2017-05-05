@@ -3,7 +3,7 @@ Scrimba is a platform for creating *truly interactive* coding screencasts. A Scr
 
 ## What are the benefits over normal videos?
 
-Scrimba makes the learning experience *better* for the viewer and the creation process *easier* for the creator. Here are the specific benefits it has over normal videos:
+Scrimba makes the learning experience **better** for the viewer and the creation process **easier** for the creator. Here are the specific benefits it has over normal videos:
 
 - Easier and faster to create
 - Interactive (edit/copy/run the code inside the screencast)
