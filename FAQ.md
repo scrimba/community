@@ -9,7 +9,7 @@
 - [How do I add external JavaScript libraries?](#how-do-i-add-external-javaScript-libraries)
 - [Can I create playlists?](#can-i-create-playlists)
 - [Can I add a new topic page?](#can-i-add-a-new-topic-page)
-- [Can I create paid courses on Scrimba??](#can-i-create-paid-courses-on-scrimba)
+- [Can I create paid courses on Scrimba?](#can-i-create-paid-courses-on-scrimba)
 - [Can I export my Scrimba screencast to a normal video?](#can-i-export-my-scrimba-screencast-to-a-normal-video)
 - [Why are you building Scrimba?](#why-are-you-building-scrimba)
 
@@ -46,13 +46,13 @@ Once you've created a new cast, click the *settings* icon in the top right corne
 Yes! On your profile, click *Playlists* and then *New*. Once created, you can add screencasts to it.
 
 ## Can I add a new topic page?
-Topic pages are added manually by the team. But we're very open for suggestions! If you have a suggestion for a new topic, send us an email (hello at scrimba dot com) or let us know in the [chat](https://gitter.im/scrimba_community/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
+Topic pages are added manually by the team. But we're very open for suggestions! If you have a suggestion for a new topic, send us an email (hello@scrimba.com) or let us know in the [chat](https://gitter.im/scrimba_community/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
 
 ## Can I create paid courses on Scrimba?
 Not yet, but you will in the future.
 
 ## Can I export my Scrimba screencast to a normal video?
-We don't have a functionality for doing this yet. However, shoot us an email (hello at scrimba dot com) and we'll happily do it manually for you.
+We don't have a functionality for doing this yet. However, shoot us an email (hello@scrimba.com) and we'll happily do it manually for you.
 
 ## Why are you building Scrimba?
 Our goal is to make online learning *better* than in-person learning. Here's why this is important:
