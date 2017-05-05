@@ -10,7 +10,8 @@
 - [Can I create playlists?](#can-i-create-playlists)
 - [Can I add a new topic page?](#can-i-add-a-new-topic-page)
 - [Can I create paid courses on Scrimba??](#can-i-create-paid-courses-on-scrimba)
-- [ Why are you building Scrimba?](#why-are-you-building-scrimba)
+- [Can I export my Scrimba screencast to a normal video?](#can-i-export-my-scrimba-screencast-to-a-normal-video)
+- [Why are you building Scrimba?](#why-are-you-building-scrimba)
 
 
 ## What is Scrimba?
