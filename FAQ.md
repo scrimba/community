@@ -1,6 +1,15 @@
 - [What is Scrimba?](#what-is-scrimba)
 - [What are the benefits over normal videos?](#what-are-the-benefits-over-normal-videos)
-- [How do I create a Scrimba screencast?](#how-do-I-create-a-Scrimba-screencast)
+- [How do I create a Scrimba screencast?](#how-do-I-create-a-scrimba-screencast)
+- [Can I edit a recording after I've created it?](#can-i-edit-a-recording-after-i've-created-it)
+- [Which languages does Scrimba support?](#which-languages-does-scrimba-support)
+- [How do I add external JavaScript libraries?](#how-do-I-add-external-javaScript-libraries)
+- [Can I create playlists?](#can-i-create-playlists)
+- [Can I add a new topic page?](#can-i-add-a-new-topic-page)
+- [Can I create paid courses on Scrimba??](#can-i-create-paid-courses-on-scrimba)
+- [Can I embed Scrimba screencasts?](#can-i-embed-scrimba-screencasts)
+- [ Why are you building Scrimba?](#why-are-you-building-scrimba)
+
 
 ## What is Scrimba?
 Scrimba is a platform for creating *truly interactive* coding screencasts. A Scrimba screencast might look like a normal video at first sight, however it's something much better. As a viewer you can pause the screencasts and edit the code whenever you want.
