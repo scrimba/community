@@ -3,13 +3,13 @@
 - [What is Scrimba?](#what-is-scrimba)
 - [What are the benefits over normal videos?](#what-are-the-benefits-over-normal-videos)
 - [How do I create a Scrimba screencast?](#how-do-I-create-a-scrimba-screencast)
+- [Can I embed Scrimba screencasts?](#can-i-embed-scrimba-screencasts)
 - [Can I edit a recording after I've created it?](#can-i-edit-a-recording-after-i've-created-it)
 - [Which languages does Scrimba support?](#which-languages-does-scrimba-support)
-- [How do I add external JavaScript libraries?](#how-do-I-add-external-javaScript-libraries)
+- [How do I add external JavaScript libraries?](#how-do-i-add-external-javaScript-libraries)
 - [Can I create playlists?](#can-i-create-playlists)
 - [Can I add a new topic page?](#can-i-add-a-new-topic-page)
 - [Can I create paid courses on Scrimba??](#can-i-create-paid-courses-on-scrimba)
-- [Can I embed Scrimba screencasts?](#can-i-embed-scrimba-screencasts)
 - [ Why are you building Scrimba?](#why-are-you-building-scrimba)
 
 
@@ -29,6 +29,9 @@ Scrimba makes the learning experience **better** for the viewer and the creation
 ## How do I create a Scrimba screencast?
 Check [this Medium post](https://medium.com/scrimba/how-to-create-a-scrimba-screencast-e5ca244bc531) for detailed instructions.
 
+## Can I embed Scrimba screencasts?
+Yes! Once you've created a screencast, hit the settings icon below the player. There you'll find the embed code. Here's a [live example](http://davekiss.com/using-es6-sets-to-create-a-unique-javascript-array-without-duplicates/) of how an ebmedded Scrimba looks like.
+
 ## Can I edit a recording after I've created it?
 Not yet (we're working on this feature). However, you can record your screencast in chapters. When you're doing a recording, and hit *Finish*, it'll be saved as a chapter. You can then add a next chapter by doing a new recording. If you mess up during a recording, simply hit *Cancel*, and we'll discard the recording.
 
@@ -37,9 +40,6 @@ At the moment, we only support client side code, meaning HTML, CSS, JavaScript (
 
 ## How do I add external JavaScript libraries?
 Once you've created a new cast, click the *settings* icon in the top right corner, and you'll see a menu for adding external scripts.
-
-## Can I embed Scrimba screencasts?
-Yes! Once you've created a screencast, hit the settings icon below the player. There you'll find the embed code. Here's a [live example](http://davekiss.com/using-es6-sets-to-create-a-unique-javascript-array-without-duplicates/) of how an ebmedded Scrimba looks like.
 
 ## Can I create playlists?
 Yes! On your profile, click *Playlists* and then *New*. Once created, you can add screencasts to it.
