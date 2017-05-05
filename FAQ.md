@@ -1,4 +1,4 @@
-[What is Scrimba?](#what is scrimba)
+[What is Scrimba?](#what-is-scrimba)
 
 ## What is Scrimba?
 Scrimba is a platform for creating *truly interactive* coding screencasts. A Scrimba screencast might look like a normal video at first sight, however it's something much better. As a viewer you can pause the screencasts and edit the code whenever you want.
