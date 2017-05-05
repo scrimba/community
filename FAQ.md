@@ -1,3 +1,5 @@
+### Frequently Asked Questions
+
 - [What is Scrimba?](#what-is-scrimba)
 - [What are the benefits over normal videos?](#what-are-the-benefits-over-normal-videos)
 - [How do I create a Scrimba screencast?](#how-do-I-create-a-scrimba-screencast)
@@ -36,6 +38,9 @@ At the moment, we only support client side code, meaning HTML, CSS, JavaScript (
 ## How do I add external JavaScript libraries?
 Once you've created a new cast, click the *settings* icon in the top right corner, and you'll see a menu for adding external scripts.
 
+## Can I embed Scrimba screencasts?
+Yes! Once you've created a screencast, hit the settings icon below the player. There you'll find the embed code. Here's a [live example](http://davekiss.com/using-es6-sets-to-create-a-unique-javascript-array-without-duplicates/) of how an ebmedded Scrimba looks like.
+
 ## Can I create playlists?
 Yes! On your profile, click *Playlists* and then *New*. Once created, you can add screencasts to it.
 
@@ -44,9 +49,6 @@ Topic pages are added manually by the team. But we're very open for suggestions!
 
 ## Can I create paid courses on Scrimba?
 Not yet, but you will in the future.
-
-## Can I embed Scrimba screencasts?
-Yes! Once you've created a screencast, hit the settings icon below the player. There you'll find the embed code. Here's a [live example](http://davekiss.com/using-es6-sets-to-create-a-unique-javascript-array-without-duplicates/) of how an ebmedded Scrimba looks like.
 
 ## Why are you building Scrimba?
 Our goal is to make online learning *better* than in-person learning. Here's why this is important:
