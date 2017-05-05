@@ -1,8 +1,9 @@
 ## What is Scrimba?
-Scrimba is a superior way to teach and learn coding. It's both a new video format for communicating code and a platform where everybody can share their code skills.
+Scrimba is a platform for creating *truly interactive* coding screencasts. A Scrimba screencast may look like a normal video at first sight, however it's actually much better. As a viewer you can pause the screencasts and edit the code whenever you want. Scrimba is open everybody.
 
 ## What are the benefits over normal videos?
-Here are the main benefits Scrimba has over normal videos:
+
+Scrimba makes the experience better for both the creator and the viewer. Here are the specific benefits it has over normal videos:
 
 - Much easier creation process
 - Interactive (edit/copy/run the code inside the screencast)
