@@ -1,6 +1,6 @@
 - [What is Scrimba?](#what-is-scrimba)
-- [What are the benefits over normal videos?](#What-are-the-benefits-over-normal-videos)
-- [How do I create a Scrimba screencast?](#How-do-I-create-a-Scrimba-screencast?)
+- [What are the benefits over normal videos?](#what-are-the-benefits-over-normal-videos)
+- [How do I create a Scrimba screencast?](#how-do-I-create-a-Scrimba-screencast)
 
 ## What is Scrimba?
 Scrimba is a platform for creating *truly interactive* coding screencasts. A Scrimba screencast might look like a normal video at first sight, however it's something much better. As a viewer you can pause the screencasts and edit the code whenever you want.
