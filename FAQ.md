@@ -1,4 +1,4 @@
-### Frequently Asked Questions
+# Frequently Asked Questions:
 
 - [What is Scrimba?](#what-is-scrimba)
 - [What are the benefits over normal videos?](#what-are-the-benefits-over-normal-videos)
