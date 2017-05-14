@@ -10,6 +10,6 @@ Feature requests are organised as issues, and listed after the number of votes [
 ## [FAQ](https://github.com/scrimba/community/blob/master/FAQ.md)
 If you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in the [Gitter chat](https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
 
-The can be found [here](https://github.com/scrimba/community/blob/master/TERMS.md).
+The Terms of Service can be found [here](https://github.com/scrimba/community/blob/master/TERMS.md).
 
 We're very interested in getting feedback, so don't hesitate if you have anything you'd like to tell us. You can also email us at hello@scrimba.com.
