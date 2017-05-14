@@ -7,11 +7,11 @@ Welcome to the community page for [Scrimba](https://scrimba.com/). This is where
 ### [Frequently Asked Questions](https://github.com/scrimba/community/blob/master/FAQ.md)
 If you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in the [Gitter chat](https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
 
-## [Feature requests](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+### [Feature requests](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 Feature requests are organised as issues, and listed after the number of votes [here.](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) To vote for a feature, give it a :+1:. To submit a new feature request, simply create a [new issue](https://github.com/scrimba/community/issues/new) and give it the *feature-request* label.
 
-## [Bug Reports](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+### [Bug Reports](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 To submit a bug report, create an issue and give it the label *bug*.
 
-## [Terms of Service](https://github.com/scrimba/community/blob/master/TERMS.md)
+### [Terms of Service](https://github.com/scrimba/community/blob/master/TERMS.md)
 We try to keep our terms as simple as possible. If you have any questions to them, please send us an email (hello@scrimba.com) or ask in the [Gitter chat](https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
