@@ -4,9 +4,13 @@
 
 ## Recording
 
-To record, simply hit the record button in the top right corner.
+To record, simply hit **RECORD** in the bottom left corner.
 
 ![](https://github.com/scrimba/community/blob/master/img/record-button.png)
+
+This will bring up a record dialog. Here you can choose if you want to record audio, and whether or not you want to stream live.
+
+![](https://github.com/scrimba/community/blob/master/img/record-dialog.png)
 
 ## Import / Export
 
