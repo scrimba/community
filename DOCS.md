@@ -4,7 +4,7 @@
 
 ## Import / Export
 
-You can import and export files using the `require()` function and the `exports` object.
+You can import and export between files using the `require()` function and the `exports` object.
 
 Exporting using `exports`:
 
