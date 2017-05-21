@@ -1,6 +1,12 @@
+- [Recording](#recording)
 - [Import / Export](#import--export)
 - [Use JavaScript libraries](#use-javascript-libraries)
 
+## Recording
+
+To record, simply hit the record button in the top right corner.
+
+![](https://github.com/scrimba/community/blob/master/img/record-button.png)
 
 ## Import / Export
 
