@@ -9,7 +9,7 @@ To record, simply hit **RECORD** in the bottom left corner:
 
 ![](https://github.com/scrimba/community/blob/master/img/record-button.png)
 
-This will bring up a record dialog. Here you can choose if you want to record audio, and whether or not you want to broadcast live:
+This will bring up a record dialog. Here you can choose if you want to record audio, choose microphone, and whether or not you want to broadcast live:
 
 ![](https://github.com/scrimba/community/blob/master/img/record-dialog.png)
 
@@ -29,13 +29,13 @@ This will bring up a timeline with audio waveforms, where you can do two things:
 
 ### Collapse section
 
-To collapse a section, click on where you want to start, and drag the cursor over the area you want to collapse. Then hover over the area and you'll see a **COLLAPSE** button appear.
+To collapse a section, click on where you want to start, and drag the cursor over the area you want to collapse. Then hover over the area and you'll see a **COLLAPSE** button appear. When you collapse a section, Scrimba will jump over this part in the screencast. It will not be deleted entirely, so you can always *uncollapse* it again.
 
 ![](https://github.com/scrimba/community/blob/master/img/collapse.png)
 
 ### Cut ending
 
-If you're marking the area at the end of the cast, you can also cut it completely away.
+If you're marking at the very end of the cast, you can **CUT** it completely away. This will delete the section for good.
 
 ![](https://github.com/scrimba/community/blob/master/img/cut.png)
 
