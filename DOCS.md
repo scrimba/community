@@ -3,7 +3,7 @@
 - [Import / Export](#import--export)
 - [Use JavaScript libraries](#use-javascript-libraries)
 
-## Record
+# Record
 
 To record, simply hit **RECORD** in the bottom left corner:
 
