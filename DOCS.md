@@ -29,20 +29,17 @@ This will bring up a timeline with audio waveforms, where you can do two things:
 
 ### Collapse section
 
-To collapse a section, click on where you want to start, and drag the cursor over the area you want to collapse.
-
-![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
-
-Then hover over the area and you'll see a **COLLAPSE** button appear.
+To collapse a section, click on where you want to start, and drag the cursor over the area you want to collapse. Then hover over the area and you'll see a **COLLAPSE** button appear.
 
 ![](https://github.com/scrimba/community/blob/master/img/collapse.png)
 
 ### Cut ending
 
+If you're marking the area at the end of the cast, you can also cut it completely away.
+
 ![](https://github.com/scrimba/community/blob/master/img/cut.png)
 
-
-
+This will allow you to start your next recording from any given point.
 
 ## Import / Export
 
