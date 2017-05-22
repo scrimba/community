@@ -4,6 +4,10 @@
 
 Welcome to the community page for [Scrimba](https://scrimba.com/). This is where you can give us feedback, find answers to questions and keep yourself updated on how we plan to build out the site. Below is a breakdown of the content this repo contains.
 
+### [Documentation](https://github.com/scrimba/community/blob/master/DOCS.md)
+
+Check the documentation if you need explanations of how Scrimba work.
+
 ### [Frequently Asked Questions](https://github.com/scrimba/community/blob/master/FAQ.md)
 If you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in the [Gitter chat](https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
 
