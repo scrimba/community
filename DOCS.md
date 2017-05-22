@@ -17,13 +17,13 @@ When you're finished recording, hit **FINISH RECORDING** to save it, or **CANCEL
 
 ![](https://github.com/scrimba/community/blob/master/img/finish-recording.png)
 
-## Edit recording
+# Edit recording
 
 Once you're fininshed recording, you can edit your timeline by clicking the scissor icon:
 
 ![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
 
-This will bring up a timeline with audio waveforms, where you can do two things: *collapse sections* and *cut the ending*.
+This will bring up a timeline with audio waveforms, where you can do two things: **COLLAPSE** sections and **CUT** the ending*.
 
 ![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
 
@@ -41,7 +41,7 @@ If you're marking the area at the end of the cast, you can also cut it completel
 
 This will allow you to start your next recording from any given point.
 
-## Import / Export
+# Import / Export
 
 You can import and export between files using the `require()` function and the `exports` object.
 
@@ -54,12 +54,12 @@ Importing using `require()`:
 ![](https://github.com/scrimba/community/blob/master/img/require.png)
 
 
-## Use JavaScript Libraries
+# Use JavaScript Libraries
 
 To add an external JavaScript library to the cast, click the settings icon in the top right corner.
 
 ![](https://github.com/scrimba/community/blob/master/img/show-settings.png)
 
-Then, paste a link to the CDN for the library and click **Add**
+Paste in a link to the library and click **ADD**.
 
 ![](https://github.com/scrimba/community/blob/master/img/settings-dialog.png)
