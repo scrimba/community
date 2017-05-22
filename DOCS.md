@@ -23,12 +23,24 @@ Once you're fininshed recording, you can edit your timeline by clicking the scis
 
 ![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
 
-This will bring up a 
+This will bring up a timeline with audio waveforms, where you can do two things: *collapse sections* and *cut the ending*.
 
-### Collapse area
+![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
 
+### Collapse section
+
+To collapse a section, click on where you want to start, and drag the cursor over the area you want to collapse.
+
+![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
+
+Then hover over the area and you'll see a **COLLAPSE** button appear.
+
+![](https://github.com/scrimba/community/blob/master/img/collapse.png)
 
 ### Cut ending
+
+![](https://github.com/scrimba/community/blob/master/img/cut.png)
+
 
 
 
