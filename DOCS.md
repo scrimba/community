@@ -1,3 +1,5 @@
+# Documentation
+
 - [Record](#record)
 - [Edit recording](#edit-recording)
 - [Import / Export](#import--export)
