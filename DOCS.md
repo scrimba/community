@@ -21,7 +21,7 @@ When you're finished recording, hit **FINISH RECORDING** to save it, or **CANCEL
 
 # Edit recording
 
-Once you're fininshed recording, you can edit your timeline by clicking the scissor icon:
+Once you're fininshed recording, you can edit your timeline by clicking the scissor icon. Check [this video](https://www.youtube.com/watch?v=-2sSBJusQfc) if you want to watch a walkthrough of the feature:
 
 ![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
 
