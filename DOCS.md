@@ -25,7 +25,7 @@ Once you're fininshed recording, you can edit your timeline by clicking the scis
 
 ![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
 
-This will bring up a timeline with audio waveforms, where you can do two things: **COLLAPSE** sections and **CUT** the ending*.
+This will bring up a timeline with audio waveforms, where you can do two things: **COLLAPSE** sections and **CUT** the ending.
 
 ![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
 
