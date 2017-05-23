@@ -7,21 +7,21 @@
 
 # Record
 
-To record, simply hit **RECORD** in the bottom left corner:
+To record, simply hit **RECORD** in the bottom top right corner:
 
 ![](https://github.com/scrimba/community/blob/master/img/record-button.png)
 
-This will bring up a record dialog. Here you can choose if you want to record audio, choose microphone, and whether or not you want to broadcast live:
+This will bring up a record dialog. Here you can choose if you want to record audio and choose microphone:
 
 ![](https://github.com/scrimba/community/blob/master/img/record-dialog.png)
 
-When you're finished recording, hit **FINISH RECORDING** to save it, or **CANCEL** if you want to discard your recording:
+When you're finished recording, hit **STOP RECORDING**. You'll get the ability to both *save* or *discard* your recording.
 
 ![](https://github.com/scrimba/community/blob/master/img/finish-recording.png)
 
 # Edit recording
 
-Once you're fininshed recording, you can edit your timeline by clicking the scissor icon. Check [this video](https://www.youtube.com/watch?v=-2sSBJusQfc) if you want to watch a walkthrough of the feature:
+Once you're fininshed recording, you can edit your timeline by clicking the scissors icon. Check [this video](https://www.youtube.com/watch?v=-2sSBJusQfc) if you want to watch a walkthrough of the post processing feature:
 
 ![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
 
