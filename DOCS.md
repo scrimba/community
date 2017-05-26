@@ -4,7 +4,7 @@
 - [Edit recording](#edit-recording)
 - [Import / Export](#import--export)
 - [Use JavaScript libraries](#use-javascript-libraries)
-- [HTML and JS limitations](#HTML-and-JS-limitations)
+- [HTML and JS limitations](#html-and-js-limitations)
 
 # Record
 
