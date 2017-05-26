@@ -42,6 +42,8 @@ Also, check this [YouTube video](https://www.youtube.com/watch?v=fjOVqRrvgaY) wh
 
 To collapse a section, click on where you want to start, and drag the cursor over the area you want to collapse. Then hover over the area and you'll see a **COLLAPSE** button appear. When you collapse a section, Scrimba will jump over this part in the screencast. It will not be deleted entirely, so you can always *uncollapse* it again.
 
+This [YouTube video](https://youtu.be/fsKJZvwvbHM) also explains in detail how to collapse sections.
+
 ![](https://github.com/scrimba/community/blob/master/img/collapse.png)
 
 ### Cut ending
