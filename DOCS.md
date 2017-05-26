@@ -4,7 +4,7 @@
 - [Edit recording](#edit-recording)
 - [Import / Export](#import--export)
 - [Use JavaScript libraries](#use-javascript-libraries)
-- [HTML tags we don't support](#html-tags-we-dont-support)
+- [HTML and JS limitations](#html-and-js-limitations)
 
 # Record
 
@@ -73,9 +73,9 @@ Paste in a link to the library and click **ADD**.
 
 ![](https://github.com/scrimba/community/blob/master/img/settings-dialog.png)
 
-# HTML tags we don't support
+# HTML and JS limitations
 
-There are some limitations for what kind of HTML tags you can use in a Scrimba screencast:
+There are some limitations for what kind of HTML tags and JavaScript features you can use in a Scrimba screencast:
 
 ### `<canvas>`
 Our DOM recorder does not record the content of a `<canvas>` tag, meaning the live preview window will be blank when a `<canvas>` screencast is replayed.
@@ -88,7 +88,8 @@ You can use this tag, but we won't record the date picker component, only when t
 
 ### `<a>` 
 You can create links, but clicking them won't result in navigating to a new page.
-
-
+ 
+### `alert()`, `prompt()` and `confirm()`
+These function calls won't result in a popup box, so there is no point using them in a Scrimba screencast.
 
 
