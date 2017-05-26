@@ -4,6 +4,7 @@
 - [Edit recording](#edit-recording)
 - [Import / Export](#import--export)
 - [Use JavaScript libraries](#use-javascript-libraries)
+- [HTML tags we don't support](#html-tags-we-dont-support)
 
 # Record
 
@@ -71,3 +72,19 @@ To add an external JavaScript library to the cast, click the settings icon in th
 Paste in a link to the library and click **ADD**.
 
 ![](https://github.com/scrimba/community/blob/master/img/settings-dialog.png)
+
+# HTML tags we don't support
+
+There are some limitations for what kind of HTML tags you can use in a Scrimba screencast:
+
+- `<canvas>`
+Our DOM recorder does not record the content of a `<canvas>` tag, meaning the live preview window will be blank when a `<canvas>` screencast is replayed
+
+- `<select>`
+You can use the `<select>` tag, however we only record when the select element changes selection, and not 
+
+- `<a>` 
+You can create links, but clicking them won't result in navigating to a new page.
+
+
+
