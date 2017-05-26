@@ -32,7 +32,9 @@ This will bring up a timeline with audio waveforms, where you can do three thing
 
 ### Cut beginning
 
-To cut away a chunk in the beginning of the cast, navigate to the beginning of the timeline and grab hold of the yellow marker. It'll appear when you hover over the beginning of the timeline. Drag it for as long as you want to cut away:
+To cut away a chunk in the beginning of the cast, navigate to the beginning of the timeline and grab hold of the yellow marker. It'll appear when you hover over the beginning of the timeline. Drag it for as long as you want to cut away.
+
+Also, check this [YouTube video](https://www.youtube.com/watch?v=fjOVqRrvgaY) which walks you through the process.
 
 ![](https://github.com/scrimba/community/blob/master/img/cut-beginning.png)
 
