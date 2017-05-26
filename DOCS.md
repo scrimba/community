@@ -77,20 +77,16 @@ Paste in a link to the library and click **ADD**.
 
 There are some limitations for what kind of HTML tags you can use in a Scrimba screencast:
 
-- `<canvas>`
-
+### `<canvas>`
 Our DOM recorder does not record the content of a `<canvas>` tag, meaning the live preview window will be blank when a `<canvas>` screencast is replayed.
 
-- `<select>`
-
+### `<select>`
 You can use the `<select>` tag, however we only record when the select element changes selection, and not 
 
-- `<input type="date">`
-
+### `<input type="date">`
 You can use this tag, but we won't record the date picker component, only when the value of the input field is changed.
 
-- `<a>` 
-
+### `<a>` 
 You can create links, but clicking them won't result in navigating to a new page.
 
 
