@@ -2,6 +2,7 @@
 
 - [Record](#record)
 - [Edit recording](#edit-recording)
+- [The console](#the-console)
 - [Import / Export](#import--export)
 - [Use JavaScript libraries](#use-javascript-libraries)
 - [HTML and JS limitations](#html-and-js-limitations)
@@ -29,6 +30,12 @@ Once you're fininshed recording, you can edit your timeline by clicking the scis
 This will bring up a timeline with audio waveforms, where you can do three things: cut away sections in the beginning and/or ending, and collapse sections in between.
 
 ![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
+
+# The console
+
+You can log out to the console in Scrimba screencasts. To open/close the console, click the following icon in the top right corner of the player window.
+
+![](https://github.com/scrimba/community/blob/master/img/console.png)
 
 ### Cut beginning
 
