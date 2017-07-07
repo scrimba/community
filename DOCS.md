@@ -33,7 +33,7 @@ This will bring up a timeline with audio waveforms, where you can do three thing
 
 # The console
 
-You can log out to the console in Scrimba screencasts. To open/close the console, click the following icon in the top right corner of the player window.
+You can log out to the console in Scrimba screencasts. However, you have to manually open/close it. To toggle the console, click the following icon in the top right corner of the player window.
 
 ![](https://github.com/scrimba/community/blob/master/img/console.png)
 
