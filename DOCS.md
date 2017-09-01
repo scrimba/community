@@ -31,20 +31,6 @@ This will bring up a timeline with audio waveforms, where you can do three thing
 
 ![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
 
-# The console
-
-You can log out to the console in Scrimba screencasts. However, you have to manually open/close it. To toggle the console, click the following icon in the top right corner of the player window.
-
-![](https://github.com/scrimba/community/blob/master/img/console.png)
-
-### Cut beginning
-
-To cut away a chunk in the beginning of the cast, navigate to the beginning of the timeline and grab hold of the yellow marker. It'll appear when you hover over the beginning of the timeline. Drag it for as long as you want to cut away.
-
-Also, check this [YouTube video](https://www.youtube.com/watch?v=fjOVqRrvgaY) which walks you through the process.
-
-![](https://github.com/scrimba/community/blob/master/img/cut-beginning.png)
-
 ### Collapse section
 
 To collapse a section, click on where you want to start, and drag the cursor over the area you want to collapse. Then hover over the area and you'll see a **COLLAPSE** button appear. When you collapse a section, Scrimba will jump over this part in the screencast. It will not be deleted entirely, so you can always *uncollapse* it again.
@@ -53,13 +39,12 @@ This [YouTube video](https://youtu.be/fsKJZvwvbHM) also explains in detail how t
 
 ![](https://github.com/scrimba/community/blob/master/img/collapse.png)
 
-### Cut ending
+# The console
 
-If you're marking at the very end of the cast, you can **CUT** it completely away. This will delete the section for good.
+You can log out to the console in Scrimba screencasts. However, you have to manually open/close it. To toggle the console, click the following icon in the top right corner of the player window.
 
-![](https://github.com/scrimba/community/blob/master/img/cut.png)
+![](https://github.com/scrimba/community/blob/master/img/console.png)
 
-This will allow you to start your next recording from any given point.
 
 # Import / Export
 
