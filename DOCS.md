@@ -63,7 +63,7 @@ Importing using `require()`:
 
 To add an external JavaScript library to the cast, simply link to a CDN via a script tag:
 
-![](https://github.com/scrimba/community/blob/master/img/scipts.png)
+![](https://github.com/scrimba/community/blob/master/img/scripts.png)
 
 # HTML and JS limitations
 
