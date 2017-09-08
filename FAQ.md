@@ -4,7 +4,7 @@
 - [What are the benefits over normal videos?](#what-are-the-benefits-over-normal-videos)
 - [How do I create a Scrimba screencast?](#how-do-I-create-a-scrimba-screencast)
 - [Can I embed Scrimba screencasts?](#can-i-embed-scrimba-screencasts)
-- [Can I edit a recording after I've created it?](#can-i-edit-a-recording-after-i've-created-it)
+- [Can I edit a recording after I've created it?](#can-i-edit-a-recording-after-ive-created-it)
 - [Which languages does Scrimba support?](#which-languages-does-scrimba-support)
 - [How do I add external JavaScript libraries?](#how-do-i-add-external-javaScript-libraries)
 - [Can I create playlists?](#can-i-create-playlists)
@@ -34,13 +34,13 @@ Check [this Medium post](https://medium.com/scrimba/how-to-create-a-scrimba-scre
 Yes! Once you've created a screencast, hit the settings icon below the player. There you'll find the embed code. Here's a [live example](http://davekiss.com/using-es6-sets-to-create-a-unique-javascript-array-without-duplicates/) of how an ebmedded Scrimba looks like.
 
 ## Can I edit a recording after I've created it?
-Not yet (we're working on this feature). However, you can record your screencast in chapters. When you're doing a recording, and hit *Finish*, it'll be saved as a chapter. You can then add a next chapter by doing a new recording. If you mess up during a recording, simply hit *Cancel*, and we'll discard the recording.
+Yes, check out the instructions for how to do that in the [docs.](https://github.com/scrimba/community/blob/master/DOCS.md#edit-recording)
 
 ## Which languages does Scrimba support?
 At the moment, we only support client side code, meaning HTML, CSS, JavaScript (including external scripts/libraries) and Imba.
 
 ## How do I add external JavaScript libraries?
-Once you've created a new cast, click the *settings* icon in the top right corner, and you'll see a menu for adding external scripts.
+You can either use npm or link to CDN's via the <script> tags in the .html file. Check the [docs](https://github.com/scrimba/community/blob/master/DOCS.md#edit-recording) for instructions.
 
 ## Can I create playlists?
 Yes! On your profile, click *Playlists* and then *New*. Once created, you can add screencasts to it.
@@ -61,5 +61,5 @@ As education has moved from in-person to online, the *in-person learning experie
 
 Scrimba aims to re-create the *in-person learning experience* online, and even surpass it. This will ensure that everybody can get the same high quality learning experience you get through an in-person teacher.
 
-We're starting with programming, and will move to other subjects when we're ready for it.
+We've also written [an article on why we're creating a new video format for code](https://medium.com/scrimba/why-were-creating-a-new-video-format-for-code-9f674f8dcc46) on Medium.
 
