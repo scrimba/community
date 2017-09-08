@@ -3,8 +3,7 @@
 - [What is Scrimba?](#what-is-scrimba)
 - [What are the benefits over normal videos?](#what-are-the-benefits-over-normal-videos)
 - [How do I create a Scrimba screencast?](#how-do-I-create-a-scrimba-screencast)
-- [Can I embed Scrimba screencasts?](#can-i-embed
--scrimba-screencasts)
+- [Can I embed Scrimba screencasts?](#can-i-embed-scrimba-screencasts)
 - [Can I edit a recording after I've created it?](#can-i-edit-a-recording-after-ive-created-it)
 - [Which languages does Scrimba support?](#which-languages-does-scrimba-support)
 - [How do I add external JavaScript libraries?](#how-do-i-add-external-javaScript-libraries)
