@@ -59,11 +59,29 @@ Importing using `require()`:
 ![](https://github.com/scrimba/community/blob/master/img/require.png)
 
 
-# Use JavaScript Libraries
 
-To add an external JavaScript library to the cast, simply link to a CDN via a script tag:
+# External JavaScript Libraries
+
+To use external scripts, you can either link to a CDN via a script tag or use npm.
+
+## Script tag
 
 ![](https://github.com/scrimba/community/blob/master/img/scripts.png)
+
+## npm
+
+First click the npm icon in the top right corner.
+
+![](https://github.com/scrimba/community/blob/master/img/npm.png)
+
+Write the name of the package you want to include and hit *enter*:
+
+![](https://github.com/scrimba/community/blob/master/img/npm2.png)
+
+You can then import the package to a .js file using `import` or `require`:
+
+![](https://github.com/scrimba/community/blob/master/img/npm-import.png)
+
 
 # HTML and JS limitations
 
