@@ -4,7 +4,7 @@
 - [Edit recording](#edit-recording)
 - [The console](#the-console)
 - [Import / Export](#import--export)
-- [Use JavaScript libraries](#use-javascript-libraries)
+- [External JavaScript libraries](#use-javascript-libraries)
 - [HTML and JS limitations](#html-and-js-limitations)
 
 # Record
