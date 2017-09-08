@@ -3,7 +3,8 @@
 - [What is Scrimba?](#what-is-scrimba)
 - [What are the benefits over normal videos?](#what-are-the-benefits-over-normal-videos)
 - [How do I create a Scrimba screencast?](#how-do-I-create-a-scrimba-screencast)
-- [Can I embed Scrimba screencasts?](#can-i-embed-scrimba-screencasts)
+- [Can I embed Scrimba screencasts?](#can-i-embed
+-scrimba-screencasts)
 - [Can I edit a recording after I've created it?](#can-i-edit-a-recording-after-ive-created-it)
 - [Which languages does Scrimba support?](#which-languages-does-scrimba-support)
 - [How do I add external JavaScript libraries?](#how-do-i-add-external-javaScript-libraries)
@@ -31,7 +32,7 @@ Scrimba makes the learning experience **better** for the viewer and the creation
 Check [this Medium post](https://medium.com/scrimba/how-to-create-a-scrimba-screencast-e5ca244bc531) for detailed instructions.
 
 ## Can I embed Scrimba screencasts?
-Yes! Once you've created a screencast, hit the settings icon below the player. There you'll find the embed code. Here's a [live example](http://davekiss.com/using-es6-sets-to-create-a-unique-javascript-array-without-duplicates/) of how an ebmedded Scrimba looks like.
+Yes! Once you've recorded and published a screencast you'll be able to embed it. Check [the instructions](https://github.com/scrimba/community/blob/master/DOCS.md#embedding) in the docs.
 
 ## Can I edit a recording after I've created it?
 Yes, check out the instructions for how to do that in the [docs.](https://github.com/scrimba/community/blob/master/DOCS.md#edit-recording)
@@ -40,7 +41,7 @@ Yes, check out the instructions for how to do that in the [docs.](https://github
 At the moment, we only support client side code, meaning HTML, CSS, JavaScript (including external scripts/libraries) and Imba.
 
 ## How do I add external JavaScript libraries?
-You can either use npm or link to CDN's via the <script> tags in the .html file. Check the [docs](https://github.com/scrimba/community/blob/master/DOCS.md#edit-recording) for instructions.
+You can either use npm or link to CDN's via the <script> tags in the .html file. Check the [docs](https://github.com/scrimba/community/blob/master/DOCS.md#external-javascript-libraries) for instructions.
 
 ## Can I create playlists?
 Yes! On your profile, click *Playlists* and then *New*. Once created, you can add screencasts to it.
