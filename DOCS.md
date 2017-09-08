@@ -4,7 +4,7 @@
 - [Edit recording](#edit-recording)
 - [The console](#the-console)
 - [Import / Export](#import--export)
-- [External JavaScript libraries](#use-javascript-libraries)
+- [External JavaScript libraries](#external-javascript-libraries)
 - [HTML and JS limitations](#html-and-js-limitations)
 
 # Record
@@ -70,15 +70,11 @@ To use external scripts, you can either link to a CDN via a script tag or use np
 
 ## npm
 
-First click the npm icon in the top right corner.
+First click the npm icon in the top right corner. This will open up a dialog where you can specify which package you want to add.
 
 ![](https://github.com/scrimba/community/blob/master/img/npm.png)
 
-Write the name of the package you want to include and hit *enter*:
-
-![](https://github.com/scrimba/community/blob/master/img/npm2.png)
-
-You can then import the package to a .js file using `import` or `require`:
+Import the package to a .js file using `import` or `require`:
 
 ![](https://github.com/scrimba/community/blob/master/img/npm-import.png)
 
