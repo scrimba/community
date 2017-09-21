@@ -30,7 +30,7 @@ When you're finished recording, hit the **STOP** button. You'll then get the abi
 
 # Edit recording
 
-Once you're fininshed recording, you can edit your timeline by clicking the scissors icon. Check [this video](https://www.youtube.com/watch?v=-2sSBJusQfc) if you want to watch a walkthrough of the post processing feature:
+Once you're fininshed recording, you can edit your timeline by clicking the **BRUSHUP** icon. Check [this video](https://www.youtube.com/watch?v=-2sSBJusQfc) if you want to watch a walkthrough of the post processing feature:
 
 ![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
 
