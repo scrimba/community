@@ -25,7 +25,7 @@ This will bring up a record dialog where you can choose which microphone you wan
 When you're finished recording, hit the **STOP** button. You'll then get the ability to both *save* or *discard* your recording.
 
 <p align="center">
-<img width="150" src="https://github.com/scrimba/community/blob/master/img/finish-recording.png">
+<img width="100" src="https://github.com/scrimba/community/blob/master/img/finish-recording.png">
 </p>
 
 # Edit recording
