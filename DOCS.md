@@ -52,7 +52,9 @@ This [YouTube video](https://youtu.be/fsKJZvwvbHM) also explains in detail how t
 
 You can log out to the console in Scrimba screencasts. However, you have to manually open/close it. To toggle the console, click the following icon in the top right corner of the player window.
 
-![](https://github.com/scrimba/community/blob/master/img/console.png)
+<p align="center">
+<img width="500" src="https://github.com/scrimba/community/blob/master/img/console.png">
+ </p>
 
 
 # Import / Export
