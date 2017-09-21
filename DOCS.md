@@ -25,7 +25,7 @@ This will bring up a record dialog where you can choose which microphone you wan
 When you're finished recording, hit the **STOP** button. You'll then get the ability to both *save* or *discard* your recording.
 
 <p align="center">
-<img width="120" src="https://github.com/scrimba/community/blob/master/img/finish-recording.png">
+<img width="100" src="https://github.com/scrimba/community/blob/master/img/finish-recording.png">
 </p>
 
 # Edit recording
@@ -82,7 +82,7 @@ To use external scripts, you can either link to a CDN via a script tag or use np
 First click the npm icon in the top right corner. This will open up a dialog where you can specify which package you want to add.
 
 <p align="center">
-<img width="400" src="https://github.com/scrimba/community/blob/master/img/npm.png">
+<img width="500" src="https://github.com/scrimba/community/blob/master/img/npm.png">
 </p>
 
 Import the package to a .js file using `import` or `require`:
