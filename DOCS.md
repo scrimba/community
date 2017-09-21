@@ -32,7 +32,9 @@ When you're finished recording, hit the **STOP** button. You'll then get the abi
 
 Once you're fininshed recording, you can edit your timeline by clicking the **BRUSHUP** icon. Check [this video](https://www.youtube.com/watch?v=-2sSBJusQfc) if you want to watch a walkthrough of the post processing feature:
 
-![](https://github.com/scrimba/community/blob/master/img/brushup-button.png)
+<p align="center">
+<img width="120" src="https://github.com/scrimba/community/blob/master/img/brushup-button.png">
+</p>
 
 This will bring up a timeline with audio waveforms, where you can do three things: cut away sections in the beginning and/or ending, and collapse sections in between.
 
