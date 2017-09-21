@@ -81,7 +81,9 @@ To use external scripts, you can either link to a CDN via a script tag or use np
 
 First click the npm icon in the top right corner. This will open up a dialog where you can specify which package you want to add.
 
-![](https://github.com/scrimba/community/blob/master/img/npm.png)
+<p align="center">
+<img width="400" src="https://github.com/scrimba/community/blob/master/img/npm.png">
+</p>
 
 Import the package to a .js file using `import` or `require`:
 
