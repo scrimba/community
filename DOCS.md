@@ -17,7 +17,7 @@ To record, simply hit **RECORD** in the bottom top right corner:
 </p>
 This will bring up a record dialog. Here you can choose if you want to record audio and choose microphone:
 
-<p align="center">
+<p align="center" width="200">
 <img src="https://github.com/scrimba/community/blob/master/img/record-dialog.png">
 </p>
 When you're finished recording, hit **STOP RECORDING**. You'll get the ability to both *save* or *discard* your recording.
