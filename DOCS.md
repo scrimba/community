@@ -106,15 +106,3 @@ You can create links, but clicking them won't result in navigating to a new page
  
 ### `alert()`, `prompt()` and `confirm()`
 These function calls won't result in a popup box, so there is no point using them in a Scrimba screencast.
-
-# Embedding
-
-To get the embed code for a screencast, click the settings icon in the top right corner:
-
-![](https://github.com/scrimba/community/blob/master/img/settings.png)
-
-Copy the embed code from the dialog:
-
-![](https://github.com/scrimba/community/blob/master/img/embed.png)
-
-Note: you can only embed casts that are both published *and* includes an audio recording.
