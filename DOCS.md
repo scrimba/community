@@ -10,7 +10,7 @@
 
 # Record
 
-To record, simply hit the **REC** button in the top right corner:
+To record, simply hit the **Record** button in the top right corner:
 
 <p align="center">
 <img width="200" src="https://github.com/scrimba/community/blob/master/img/record-button.png">
