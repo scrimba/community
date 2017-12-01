@@ -13,7 +13,7 @@
 To record, simply hit the **Record** button in the top right corner:
 
 <p align="center">
-<img width="200" src="https://github.com/scrimba/community/blob/master/img/record-button.png">
+<img width="100" src="https://github.com/scrimba/community/blob/master/img/record-button.png">
 </p>
 
 This will bring up a record dialog where you can choose which microphone you want to use:
