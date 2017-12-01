@@ -28,6 +28,8 @@ When you're finished recording, hit the **STOP** button. You'll then get the abi
 <img width="80" src="https://github.com/scrimba/community/blob/master/img/finish-recording.png">
 </p>
 
+You can also check out this [YouTube video](https://youtu.be/rDIlR71omg4), which amongst other things goes through how to create a Scrimba screencast.
+
 # Edit recording
 
 Once you're fininshed recording, you can edit your timeline by clicking the **BRUSHUP** icon. Check [this video](https://www.youtube.com/watch?v=-2sSBJusQfc) if you want to watch a walkthrough of the post processing feature:
