@@ -28,10 +28,10 @@ Scrimba makes the learning experience **better** for the viewer and the creation
 - Indexable/searchable
 
 ## How do I create a Scrimba screencast?
-Check [this Medium post](https://medium.com/scrimba/how-to-create-a-scrimba-screencast-e5ca244bc531) for detailed instructions.
+It's really easy. Check out [this YouTube video](https://www.youtube.com/watch?v=rDIlR71omg4&feature=youtu.be&t=1m49s), which explains it.
 
 ## Can I embed Scrimba screencasts?
-Yes! Once you've recorded and published a screencast you'll be able to embed it. Check [the instructions](https://github.com/scrimba/community/blob/master/DOCS.md#embedding) in the docs.
+Yes! Just wrap it in an iframe with the *src* attribute set to the URL of the cast.
 
 ## Can I edit a recording after I've created it?
 Yes, check out the instructions for how to do that in the [docs.](https://github.com/scrimba/community/blob/master/DOCS.md#edit-recording)
@@ -43,10 +43,7 @@ At the moment, we only support client side code, meaning HTML, CSS, JavaScript (
 You can either use npm or link to CDN's via the <script> tags in the .html file. Check the [docs](https://github.com/scrimba/community/blob/master/DOCS.md#external-javascript-libraries) for instructions.
 
 ## Can I create playlists?
-Yes! On your profile, click *Playlists* and then *New*. Once created, you can add screencasts to it.
-
-## Can I add a new topic page?
-Topic pages are added manually by the team. But we're very open for suggestions! If you have a suggestion for a new topic, send us an email (hello@scrimba.com) or let us know in the [chat](https://gitter.im/scrimba_community/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
+Yes! On your profile, click on your profile image in the top right corner and then *New Playlist*. Once created, you can add screencasts to it.
 
 ## Can I create paid courses on Scrimba?
 Not yet, but you will in the future.
