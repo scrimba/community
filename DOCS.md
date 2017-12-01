@@ -36,15 +36,11 @@ Once you're fininshed recording, you can edit your timeline by clicking the **BR
 <img width="100" src="https://github.com/scrimba/community/blob/master/img/brushup-button.png">
 </p>
 
-This will bring up a timeline with audio waveforms, where you can do three things: cut away sections in the beginning and/or ending, and collapse sections in between.
+This will bring up a timeline with audio waveforms, where you can do three different editations: cut, speedup sections or silence a section. You can also make a section loop so that you can hear through it, however this is for editation purposes only.
 
 ![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
 
-### Collapse section
-
-To collapse a section, click on where you want to start, and drag the cursor over the area you want to collapse. Then hover over the area and you'll see a **COLLAPSE** button appear. When you collapse a section, Scrimba will jump over this part in the screencast. It will not be deleted entirely, so you can always *uncollapse* it again.
-
-This [YouTube video](https://youtu.be/fsKJZvwvbHM) also explains in detail how to collapse sections.
+To edit a section, hold the shift button down, click on the timeline and then drag the cursor over the area you want to edit. Then you'll see a menu appear with the editing options.
 
 ![](https://github.com/scrimba/community/blob/master/img/collapse.png)
 
