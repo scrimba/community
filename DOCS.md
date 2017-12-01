@@ -46,7 +46,7 @@ To edit a section, hold the shift button down, click on the timeline and then dr
 
 # The console
 
-You can log out to the console in Scrimba screencasts. However, you have to manually open/close it. To toggle the console, click the following icon in the top right corner of the player window.
+You can log out to the console in Scrimba screencasts. However, you have to manually open/close it. To toggle the console, click the settings icon in the top right corner of the player window. That'll open a menu where you can toggle the console.
 
 <p align="center">
 <img width="500" src="https://github.com/scrimba/community/blob/master/img/settings.png">
