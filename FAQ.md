@@ -8,7 +8,6 @@
 - [Which languages does Scrimba support?](#which-languages-does-scrimba-support)
 - [How do I add external JavaScript libraries?](#how-do-i-add-external-javaScript-libraries)
 - [Can I create playlists?](#can-i-create-playlists)
-- [Can I add a new topic page?](#can-i-add-a-new-topic-page)
 - [Can I create paid courses on Scrimba?](#can-i-create-paid-courses-on-scrimba)
 - [Can I export my Scrimba screencast to a normal video?](#can-i-export-my-scrimba-screencast-to-a-normal-video)
 - [Why are you building Scrimba?](#why-are-you-building-scrimba)
