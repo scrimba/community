@@ -48,11 +48,7 @@ To edit a section, hold the shift button down, click on the timeline and then dr
 
 # The console
 
-You can log out to the console in Scrimba screencasts. However, you have to manually open/close it. To toggle the console, click the settings icon in the top right corner of the player window. That'll open a menu where you can toggle the console.
-
-<p align="center">
-<img width="500" src="https://github.com/scrimba/community/blob/master/img/settings.png">
- </p>
+You can log out to the console in Scrimba screencasts. To toggle the console, click the CONSOLE option in the left sidebar of the project.
 
 
 # Import / Export
@@ -104,7 +100,7 @@ You can use the `<select>` tag, however we only record when the select element c
 You can use this tag, but we won't record the date picker component, only when the value of the input field is changed.
 
 ### `<a>` 
-You can create links, but clicking them won't result in navigating to a new page.
+You can create links between the HTML files in your project. However, external links won't result in anything.
  
 ### `alert()`, `prompt()` and `confirm()`
-These function calls won't result in a popup box, so there is no point using them in a Scrimba screencast.
+These function calls won't be recorded by the Scrimba recorder, so there is no point using them in a Scrimba screencast. We recommend you to use `console.log()` instead where that's possible.
