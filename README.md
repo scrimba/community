@@ -4,6 +4,10 @@
 
 Welcome to the community page for [Scrimba](https://scrimba.com/). This is where you can give us feedback, find answers to questions and keep yourself updated on how we plan to build out the site. Below is a breakdown of the content this repo contains.
 
+### [Guide for instructors](https://github.com/scrimba/community/blob/master/INSTRUCTORS.md)
+
+Interested in becoming a Scrimba instructor? Check out this site, which will help you get started.
+
 ### [Documentation](https://github.com/scrimba/community/blob/master/DOCS.md)
 
 Check the documentation if you need explanations of how Scrimba work. E.g. how to record and edit screencasts, how to include external JavaScript libraries etc.
