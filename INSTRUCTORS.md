@@ -7,7 +7,7 @@ At Scrimba, we're very interested in getting more people to create content. We b
 ### How do I become a Scrimba instructor?
 It's easy. Just start creating screencasts and publish them. Everybody can do this, and it's completely free. We've written guide on [how to create screencasts here.](https://medium.com/scrimba/how-to-create-a-scrimba-screencast-e5ca244bc531) 
 
-Once you've recorded your screencast, you likely need to do some editing (unless you've made a perfect recording). You can eaisly edit your screencast (cut, silence & speed up sections) following [this guide.](https://github.com/scrimba/community/blob/master/DOCS.md#edit-recording)
+Once you've recorded your screencast, you likely need to do some editing (unless you've made a perfect recording). You can easily edit your screencast (cut, silence & speed up sections) following [this guide.](https://github.com/scrimba/community/blob/master/DOCS.md#edit-recording)
 
 If you create multiple screencasts on the same subject, you should gather them in a playlist. This way your users can binge watch them automatically, and you can send people a link directly to your playlist. To do this, click your profile icon in the navbar and choose *New playlist*. Once you've done this, you can add screencasts to the playlist by clicking the settings icon in a screencast's thumbnail and whoosing *Add to playlist*. 
 
