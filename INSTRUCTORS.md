@@ -1,8 +1,8 @@
 # Guide for instructors
 
-Welcome to the creators corner. This is the community site for people who create content on Scrimba. Here we've gathered all relevant information, and we'll update it regularly.
+This section is meant for people who create content on Scrimba. Here we've gathered all relevant information, and we'll update it regularly.
 
-At Scrimba, we're very interested in getting more people to create content. We believe that there are millions of talented teachers out there, and we want to unlock their talent by giving them an easy to use platform for sharing their skills.
+At Scrimba, we're very interested in getting more people to create content. We believe that there are thousands of talented but undiscovered coding teachers out there. We want to unlock their talent by giving them an easy to use platform for sharing their skills, and over time, allow them to make money teaching.
 
 ### How do I become a Scrimba instructor?
 It's easy. Just start creating screencasts and publish them. Everybody can do this, and it's completely free. We've written guide on [how to create screencasts here.](https://medium.com/scrimba/how-to-create-a-scrimba-screencast-e5ca244bc531) 
