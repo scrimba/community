@@ -36,13 +36,13 @@ Welcome to the community page for [Scrimba](https://scrimba.com/)! This is where
 Interested in becoming a Scrimba instructor? Check out this guide, which will help you get started.
 
 ### _"What does this button do?"_ - <a href="DOCS.md">Documentation</a>
-Check our well explained documentation if you need explanations of how Scrimba work. Doesn't know how to record and edit screencasts? How to include external JavaScript libraries? Just take a quick look on the documentation and you will know all Scrimba's functionality from head to tail.
+Check our well explained documentation if you need explanations of how Scrimba work. In it you'll learn how to record and edit screencasts and how include external JavaScript libraries. So take a quick look on the documentation and you will know all Scrimba's functionality from head to tail.
 
 ### Frequently Asked Questions - <a href="FAQ.md">FAQ</a>
 _There's no reason to scratch your head_, if you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in the [Gitter Chat](https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
 
 ### Issues  - <a href="https://github.com/scrimba/community/issues">Issues Page</a>
-Do you like Scrimba? Follow our product development, simply head over to the issues of this repository, as we're using these to organize our product development process. Feel free to raise issues if you find bugs or have <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">feature requests</a>.
+Do you want to have a saying in which feature we build next? To follow and affect our product development, simply head over to the issues of this repository, as we're using these to organize our product development process. Feel free to raise issues if you find bugs or have <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">feature requests</a>.
 
 ### Feature Request - <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">Feature Requests</a>
 
