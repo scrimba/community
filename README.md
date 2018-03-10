@@ -32,6 +32,9 @@ Follow us on: <a href="https://twitter.com/scrimba_com">Twitter</a> - Say hi to 
 
 Welcome to the community page for [Scrimba](https://scrimba.com/)! This is where you can give us feedback, find answers to questions and keep yourself updated on how we plan to build out the site. Here's a list of the contents of this repository.
 
+### Become a Instructor - <a href="INSTRUCTORS.md">Guide</a>
+Interested in becoming a Scrimba instructor? Check out this guide, which will help you get started.
+
 ### _"What does this button do?"_ - <a href="DOCS.md">Documentation</a>
 Check our well explained documentation if you need explanations of how Scrimba work. Doesn't know how to record and edit screencasts? How to include external JavaScript libraries? Just take a quick look on the documentation and you will know all Scrimba's functionality from head to tail.
 
