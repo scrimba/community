@@ -15,11 +15,11 @@
 
 <br>
 
-<h4 align="center">
+<h3 align="center">
 	The easiest way to teach and learn code.
 	<br>
 	<a href="https://scrimba.com/">Watch hundreds of interactive screencasts.</a>
-</h4>
+</h3>
 
 <br>
 
