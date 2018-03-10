@@ -22,6 +22,7 @@
 </h3>
 
 <br>
+<br>
 
 <p align="center">
 Follow us on: <a href="https://twitter.com/scrimba_com">Twitter</a> - Say hi to us  at: <a href="mailto:hello@scrimba.com">hello@scrimba.com</a>
