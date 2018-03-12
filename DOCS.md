@@ -57,18 +57,18 @@ To toggle between *fixed* and *floating* mode in the browser, click the green bu
 
 Here's how it looks like when the browser window is fixed and you're focusing on it. As you can see, the background is faded out.
 
-![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
+![](https://github.com/scrimba/community/blob/master/img/fixed-browser.png)
 
 When you click outside the browser (or on the yellow minimize-button) it'll will move out of the way, so that you can focus on the code.
 
-![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
+![](https://github.com/scrimba/community/blob/master/img/minimized-browser.png)
 
 
 ## Floating
 
 Here's how it looks with the browser window in *floating* mode. As you can see, this opens up for the possibility to focus on both the code and the browser at the same time.
 
-![](https://github.com/scrimba/community/blob/master/img/audio-waveforms.png)
+![](https://github.com/scrimba/community/blob/master/img/floating-browser.png)
 
 The reason we want to limit instructors ability to do this, is that it can introduce problems when we're adapting your screencast to be viewed on smaller screen sizes (i.e. the browser appearing above code). This adaptation is much easier to do when we know if you're focusing on code *or* browser.
 
@@ -76,6 +76,12 @@ The reason we want to limit instructors ability to do this, is that it can intro
 
 You can log out to the console in Scrimba screencasts. To toggle the console, click the CONSOLE option in the left sidebar of the project.
 
+![](https://github.com/scrimba/community/blob/master/img/console.png)
+
+
+We'll also show the latest console log for a few seconds after running the code. This means you can keep the console closed, and still take advantage of it.
+
+![](https://github.com/scrimba/community/blob/master/img/smart-console.png)
 
 # Import / Export
 
