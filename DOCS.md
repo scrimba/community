@@ -26,7 +26,7 @@ This will bring up a record dialog where you can choose which microphone you wan
 When you're finished recording, hit the **STOP** button. You'll then get the ability to both *save* or *discard* your recording.
 
 <p align="center">
-<img width="80" src="https://github.com/scrimba/community/blob/master/img/finish-recording.png">
+<img width="120" src="https://github.com/scrimba/community/blob/master/img/finish-recording.png">
 </p>
 
 You can also check out this [YouTube video](https://youtu.be/rDIlR71omg4), which amongst other things goes through how to create a Scrimba screencast.
