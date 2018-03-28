@@ -126,7 +126,7 @@ There are some limitations for what kind of HTML tags and JavaScript features yo
 Our DOM recorder does not record the content of a `<canvas>` tag, meaning the live preview window will be blank when a `<canvas>` screencast is replayed.
 
 ### `<select>`
-You can use the `<select>` tag, however we only record when the select element changes selection, and not 
+You can use the `<select>` tag, however we only record when the select element changes selection, and not the dropdown effect.
 
 ### `<input type="date">`
 You can use this tag, but we won't record the date picker component, only when the value of the input field is changed.
