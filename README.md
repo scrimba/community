@@ -53,3 +53,6 @@ To submit a bug report, <a href="https://github.com/scrimba/community/issues/new
 
 ### TOS - <a href="TERMS.md">Terms of Service</a>
 We try to keep our terms as simple as possible. If you have any questions to them, please send us an email (<a href="mailto:hello@scrimba.com">hello@scrimba.com</a>) or ask in the [Gitter Chat](https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
+
+### <a href="PRIVACY.md">Privacy Policy</a>
+This document describes how we handle personal data at Scrimba.com. It also contains contact information in case you want us to delete your data. It’s written with clarity in mind, so it should be easy to follow.
