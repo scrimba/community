@@ -48,7 +48,7 @@ Yes! On your profile, click on your profile image in the top right corner and th
 Not yet, but you will in the future.
 
 ## Can I export my Scrimba screencast to a normal video?
-We don't have a functionality for doing this yet. However, shoot us an email (hello@scrimba.com) and we'll happily do it manually for you.
+We don't have a functionality for doing this yet. However, feel free to manually do a screen recording of your Scrimba screencasts, so that you can save them as video files locally.
 
 ## Why are you building Scrimba?
 Our goal is to make online learning *better* than in-person learning. Here's why this is important:
