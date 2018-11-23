@@ -6,7 +6,7 @@ At Scrimba, we're very interested in getting more people to create content. We b
 
 ### How do I become a Scrimba instructor?
 
-There are two ways to create content on Scrimba: either as a hired instructor which we pay in order to create full-length courses, or as community instructor, which simply creates content on its own initiative. To apply to become a paid instructor, please fill out [this form.](https://docs.google.com/forms/d/e/1FAIpQLScZVtqNbNRwmJ0yLS9_QSwM6e-OZiNsBRtUZUZeLBHuE9UHtw/viewform?usp=sf_link).
+There are two ways to create content on Scrimba: either as a hired instructor which we pay in order to create full-length courses, or as community instructor, which simply creates content on its own initiative. To apply to become a paid instructor, please fill out [this form.](https://docs.google.com/forms/d/e/1FAIpQLScZVtqNbNRwmJ0yLS9_QSwM6e-OZiNsBRtUZUZeLBHuE9UHtw/viewform?usp=sf_link)
 
 If you want to become a community instructor, you can just start creating screencasts and publish them. Everybody can do this, and it's completely free. We've written guide on [how to create screencasts here.](https://medium.com/scrimba/how-to-create-a-scrimba-screencast-e5ca244bc531) 
 
