@@ -1,5 +1,6 @@
 # Documentation
 
+- [Frequently asked questions (FAQ)](https://github.com/scrimba/community/blob/master/FAQ.md)
 - [Do a recording](#do-a-recording)
 - [Edit your recording](#edit-your-recording)
 - [The browser](#the-browser)
