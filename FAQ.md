@@ -11,6 +11,7 @@
 - [Can I create paid courses on Scrimba?](#can-i-create-paid-courses-on-scrimba)
 - [Can I export my Scrimba screencast to a normal video?](#can-i-export-my-scrimba-screencast-to-a-normal-video)
 - [Why are you building Scrimba?](#why-are-you-building-scrimba)
+- [How can I delete my account?](#how-can-i-delete-my-account)
 
 
 ## What is Scrimba?
@@ -59,3 +60,6 @@ Scrimba aims to re-create the *in-person learning experience* online, and even s
 
 We've also written [an article on why we're creating a new video format for code](https://medium.com/scrimba/why-were-creating-a-new-video-format-for-code-9f674f8dcc46) on Medium.
 
+## How can I delete my account?
+
+Just email us at hello@scrimba.com and we'll delete you account.
