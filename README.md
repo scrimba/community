@@ -1,15 +1,14 @@
+<br>
 <h1 align="center">
-	<img src="http://osloedtech.no/wp-content/uploads/2017/02/Scrimba-logo.jpg">
+	<a href="https://scrimba.com/"><img src="https://i.postimg.cc/02tKBTwD/blue.png" width="500" alt="Scrimba logo"></a>
 	<br>
-  <span>Scrimba</span>
-  <br>
-  <br>
+<br>
 </h1>
 
 <p align="center">
 	<a href="DOCS.md">Documentation</a>&nbsp;&nbsp;&nbsp;
   <a href="FAQ.md">FAQ</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">Gitter Chat</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://spectrum.chat/scrimba">Community</a>&nbsp;&nbsp;&nbsp;
   <a href="TERMS.md">Terms of Sevice</a>
 </p>
 
@@ -25,7 +24,7 @@
 <br>
 
 <p align="center">
-Follow us on: <a href="https://twitter.com/scrimba_com">Twitter</a> - Say hi to us  at: <a href="mailto:hello@scrimba.com">hello@scrimba.com</a>
+Follow us on: <a href="https://twitter.com/scrimba">Twitter</a> - Say hi to us  at: <a href="mailto:hello@scrimba.com">hello@scrimba.com</a>
 </p>
 
 <h1 align="center"></h1>
@@ -41,7 +40,7 @@ You can also create content on Scrimba on your own initiative. Check out this <a
 Check our well explained documentation if you need explanations of how Scrimba work. In it you'll learn how to record and edit screencasts and how include external JavaScript libraries. So take a quick look on the documentation and you will know all Scrimba's functionality from head to tail.
 
 ### Frequently Asked Questions - <a href="FAQ.md">FAQ</a>
-_There's no reason to scratch your head_, if you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in the [Gitter Chat](https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
+_There's no reason to scratch your head_, if you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in the [Spectrum Chat](https://spectrum.chat/scrimba).
 
 ### Issues  - <a href="https://github.com/scrimba/community/issues">Issues Page</a>
 Do you want to have a saying in which feature we build next? To follow and affect our product development, simply head over to the issues of this repository, as we're using these to organize our product development process. Feel free to raise issues if you find bugs or have <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">feature requests</a>.
@@ -54,7 +53,7 @@ Feature requests are organised as issues, and listed after the number of votes <
 To submit a bug report, <a href="https://github.com/scrimba/community/issues/new">create an issue</a>. The Scrimba team will give it the label *bug* as soon as possible. Please check the [bug reports](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Abug) before submitting one, in case it's already been submitted.
 
 ### TOS - <a href="TERMS.md">Terms of Service</a>
-We try to keep our terms as simple as possible. If you have any questions to them, please send us an email (<a href="mailto:hello@scrimba.com">hello@scrimba.com</a>) or ask in the [Gitter Chat](https://gitter.im/scrimba_community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
+We try to keep our terms as simple as possible. If you have any questions to them, please send us an email (<a href="mailto:hello@scrimba.com">hello@scrimba.com</a>) or ask in the [Spectrum Chat](https://spectrum.chat/scrimba)
 
 ### <a href="PRIVACY.md">Privacy Policy</a>
 This document describes how we handle personal data at Scrimba.com. It also contains contact information in case you want us to delete your data. It’s written with clarity in mind, so it should be easy to follow.
