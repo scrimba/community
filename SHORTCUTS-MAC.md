@@ -38,7 +38,7 @@
 | Command | Action |
 | --- | --- |
 | `Alt + click` | Add cursor at click position |
-| `Shift + Alt + I` | Insert cursor at the end of each line selected / makes empty spaces visible if nothing |
+| `Shift + Alt + I` | Insert cursor at the end of each line selected / makes empty spaces visible |
 | `Cmd + Alt + 🡩/🡫` | Insert cursor above/below |
 | `Cmd + Shift + Enter` | Create new line above cursor |
 | `Cmd + Enter` | Create new line below cursor |
