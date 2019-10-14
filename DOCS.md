@@ -8,7 +8,7 @@
 - [Import / Export](#import--export)
 - [External JavaScript libraries](#external-javascript-libraries)
 - [HTML and JS limitations](#html-and-js-limitations)
-- [Embedding](#embedding)
+- [Editor keyboard shortcuts](#editor-keyboard-shortcuts)
 
 # Do a recording
 
@@ -137,3 +137,9 @@ You can create links between the HTML files in your project. However, external l
  
 ### `alert()`, `prompt()` and `confirm()`
 These function calls won't be recorded by the Scrimba recorder, so there is no point using them in a Scrimba screencast. We recommend you to use `console.log()` instead where that's possible.
+
+# Editor keyboard shortcuts
+
+> [For Windows](https://github.com/scrimba/community/blob/master/SHORTCUTS-WINDOWS.md)
+
+> [For Mac](https://github.com/scrimba/community/blob/master/SHORTCUTS-MAC.md)
