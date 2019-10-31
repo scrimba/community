@@ -17,6 +17,7 @@
 #### <a name="general">General</a>
 | Command | Action |
 | --- | --- |
+| `F1` | Power user menu |
 | `Ctrl + S` | Execute code |
 | `Ctrl + B` | Toggle mini browser focus |
 | `Ctrl + Shift + U` | Show/hide mini browser |
