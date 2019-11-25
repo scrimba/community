@@ -55,5 +55,5 @@ You can at any given time ask us to delete your data, and we’ll fullfill your 
 
 If you want us to delete your data please send an email to hello@scrimba.com and we’ll delete it.
 
-Other complaints can be sent to the same email address, or via sending a direct message to us on Twitter (@scrimba_com).
+Other complaints can be sent to the same email address, or via sending a direct message to us on Twitter (@scrimba).
 
