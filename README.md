@@ -8,7 +8,7 @@
 <p align="center">
 	<a href="DOCS.md">Documentation</a>&nbsp;&nbsp;&nbsp;
   <a href="FAQ.md">FAQ</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://spectrum.chat/scrimba">Community</a>&nbsp;&nbsp;&nbsp;
+	<a href="http://bit.ly/scrimba-discord">Community</a>&nbsp;&nbsp;&nbsp;
   <a href="TERMS.md">Terms of Sevice</a>
 </p>
 
