@@ -53,7 +53,10 @@ Feature requests are organised as issues, and listed after the number of votes <
 To submit a bug report, <a href="https://github.com/scrimba/community/issues/new">create an issue</a>. The Scrimba team will give it the label *bug* as soon as possible. Please check the [bug reports](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Abug) before submitting one, in case it's already been submitted.
 
 ### TOS - <a href="TERMS.md">Terms of Service</a>
-We try to keep our terms as simple as possible. If you have any questions about them, please send us an email (<a href="mailto:hello@scrimba.com">hello@scrimba.com</a>) or ask in the [Spectrum Chat](https://spectrum.chat/scrimba)
+We try to keep our terms as simple as possible. If you have any questions about them, please send us an email (<a href="mailto:help@scrimba.com">hello@scrimba.com</a>) or ask in the [Discord Chat](https://discord.gg/Bs6SAv7)
+
+### Contact us
+If you want to contact us, please write in our support channel on our [Discord server](https://discord.gg/Bs6SAv7) Alternatively, send us an email (<a href="mailto:help@scrimba.com">help@scrimba.com</a>).
 
 ### <a href="PRIVACY.md">Privacy Policy</a>
 This document describes how we handle personal data at Scrimba.com. It also contains contact information in case you want us to delete your data. It’s written with clarity in mind, so it should be easy to follow.
