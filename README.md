@@ -40,7 +40,7 @@ You can also create content on Scrimba on your own initiative. Check out this <a
 Check our well-explained documentation if you need explanations of how Scrimba works. In it you'll learn how to record and edit screencasts and how include external JavaScript libraries. So take a quick look on the documentation and you will know all Scrimba's functionality from head to tail.
 
 ### Frequently Asked Questions - <a href="FAQ.md">FAQ</a>
-_There's no reason to scratch your head_, if you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in the [Spectrum Chat](https://spectrum.chat/scrimba).
+_There's no reason to scratch your head_, if you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in our support channel on our [Discord server](https://discord.gg/Bs6SAv7).
 
 ### Issues  - <a href="https://github.com/scrimba/community/issues">Issues Page</a>
 Do you want to have a say in which feature we build next? To follow and affect our product development, simply head over to the issues of this repository, as we're using these to organize our product development process. Feel free to raise issues if you find bugs or have <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">feature requests</a>.
