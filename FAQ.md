@@ -63,3 +63,9 @@ We've also written [an article on why we're creating a new video format for code
 ## How can I delete my account?
 
 Just email us at hello@scrimba.com and we'll delete you account.
+
+## The mini-browser is not working, what do I do?
+
+In some browsers service workers are disabled. Please check that you have allowed service workers.
+On Firefox based browsers you can visit `about:config?filter=dom.serviceWorkers.enabled` and change
+the value from `false` to `true`.
