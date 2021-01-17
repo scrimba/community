@@ -28,18 +28,18 @@
 | Command | Action |
 | --- | --- |
 | `Shift + Cmd + L` | Select all instances (highlight or cursor position) |
-| `Shift + Alt + 🡪` | Expand selection to select word |
+| `Shift + Alt + right arrow key` | Expand selection to select word |
 | `Shift + Alt highlight code` | Column (box) selection |
-| `Shift + 🡪` | Select one character at a time |
-| `Shift + 🡫` | Select line at a time |
-| `Shift + Cmd + 🡪` | Select whole symbol |
+| `Shift + right arrow key` | Select one character at a time |
+| `Shift + down arrow key` | Select line at a time |
+| `Shift + Cmd + right arrow key` | Select whole symbol |
 
 #### <a name="cursor">Cursor</a>
 | Command | Action |
 | --- | --- |
 | `Alt + click` | Add cursor at click position |
 | `Shift + Alt + I` | Insert cursor at the end of each line selected / makes empty spaces visible |
-| `Cmd + Alt + 🡩/🡫` | Insert cursor above/below |
+| `Cmd + Alt + up/down arrow key` | Insert cursor above/below |
 | `Cmd + Shift + Enter` | Create new line above cursor |
 | `Cmd + Enter` | Create new line below cursor |
 
@@ -49,8 +49,8 @@
 | `Cmd + X` | Cut line (empty selection) |
 | `Cmd + C` | Copy line (empty selection) |
 | `Cmd + V` | Paste copied content |
-| `Alt + 🡩/🡫` | Move line up/down |
-| `Shift + Alt + 🡩/🡫` | Copy line up/down |
+| `Alt + up/down arrow key` | Move line up/down |
+| `Shift + Alt + up/down arrow key` | Copy line up/down |
 | `Cmd + Shift + \` | Navigate to matching bracket |
 | `Cmd + ] / [` | Indent/outdent line |
 | `Cmd + Z` | Undo |
@@ -65,7 +65,7 @@
 | `Option +  Cmd + C/W/R` | Toggle case-sensitive / whole word / regular expression |
 | `Ctrl + G` | Navigate to line number |
 | `Cmd + Shift + O` | Navigate to symbol |
-| `Cmd + 🡨/🡪` | Navigate to start/end of symbol |
+| `Cmd + right/left arrow key` | Navigate to start/end of symbol |
 
 #### <a name="comments">Comments</a>
 | Command | Action |
