@@ -1,6 +1,6 @@
 The Scrimba community is a friendly, encouraging place for anyone aspiring to become a hireable web developer.
 
-This is a "living" document, and subject to refinement and expansion in the future. This policy applies to the Scrimba Discord and every event, including but not limited to Discord, Zoom, and YouTube.
+This is a "living" 🌱 document, and subject to refinement and expansion in the future. This policy applies to the Scrimba Discord and every event, including but not limited to Discord, Zoom, and YouTube.
 
 The simple version:
 
@@ -34,7 +34,7 @@ If you say something that is found offensive, and you are called out on it, let�
 - Ask for tips / help with avoiding making the offence in the future
 - Apologise and ask forgiveness
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be banned from the Scrimba Discord for 24 hours and issued a final warning.  Upon repeat offences, or if the community believes you are not acting in good faith, you may be banned permanently.
+⚠️ Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be banned from the Scrimba Discord for 24 hours and issued a final warning.  Upon repeat offences, or if the community believes you are not acting in good faith, you may be banned permanently.
 
 If you experience abuse, harassment, discrimination, or feel unsafe, please let Alex and/or Leanne from the Scrimba know:
 
