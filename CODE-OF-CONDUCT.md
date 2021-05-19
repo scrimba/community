@@ -1,6 +1,6 @@
 The Scrimba community is a friendly, encouraging place for anyone aspiring to become a hireable web developer.
 
-This is a "living" 🌱 document, and subject to refinement and expansion in the future. This policy applies to the Scrimba Discord and every event, including but not limited to Discord, Zoom, and YouTube.
+This policy was adopted from the [CodeNewbie community](https://www.codenewbie.org/blogs/our-code-of-conduct). This is a "living" 🌱 document, and subject to refinement and expansion in the future. This policy applies to the Scrimba Discord and every event, including but not limited to Discord, Zoom, and YouTube.
 
 The simple version:
 
@@ -15,7 +15,7 @@ The Scrimba community should be a safe place for everybody regardless of
 - gender, gender identity or gender expression
 - sexual orientation
 - disability
-- physical appearance (including but not limited to body size)
+- physical appearance
 - race
 - age
 - religion
@@ -27,12 +27,12 @@ As someone who is part of this community, you agree that:
 - We have zero tolerance for abuse, harassment, or discrimination
 - We respect people’s boundaries and identities
 
-If you say something that is found offensive, and you are called out on it, let’s:
+If you are addressed for saying something that is found to be offensive, we ask you to:
 
-- Listen without interruption
-- Believe what the person is saying & do not attempt to disqualify what they have to say
+- Listen without interruption to what the person is saying
+- Do not attempt to disqualify what they have to say
 - Ask for tips / help with avoiding making the offence in the future
-- Apologise and ask forgiveness
+- Apologise
 
 ⚠️ Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be banned from the Scrimba Discord for 24 hours and issued a final warning.  Upon repeat offences, or if the community believes you are not acting in good faith, you may be banned permanently.
 
