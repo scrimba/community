@@ -32,7 +32,6 @@ If you are addressed for saying something that is found to be offensive, we ask 
 - Listen without interruption to what the person is saying
 - Do not attempt to disqualify what they have to say
 - Ask for tips / help with avoiding making the offence in the future
-- Apologise
 
 ⚠️ Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be banned from the Scrimba Discord for 24 hours and issued a final warning.  Upon repeat offences, or if the community believes you are not acting in good faith, you may be banned permanently.
 
