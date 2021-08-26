@@ -1,6 +1,6 @@
 The Scrimba community is a friendly, encouraging place for anyone aspiring to become a hireable web developer.
 
-This policy was adopted from the [CodeNewbie community](https://www.codenewbie.org/blogs/our-code-of-conduct). This is a "living" 🌱 document, and subject to refinement and expansion in the future. This policy applies to the Scrimba Discord and every event, including but not limited to Discord, Zoom, and YouTube.
+This policy was adopted from the [CodeNewbie community](https://www.codenewbie.org/blogs/our-code-of-conduct). This is a "living" 🌱 document, and subject to refinement and expansion in the future. This policy applies to the Scrimba Discord and every event, including but not limited to Discord, Zoom, Twitter Spaces, and YouTube.
 
 The simple version:
 
