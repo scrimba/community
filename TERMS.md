@@ -6,7 +6,7 @@ By being a member of and using the Scrimba site, you agree to everything on this
 
 Your account is your responsibility, you are responsible for all content that your account publishes on Scrimba.
 
-All content created on Scrimba is MIT licensed, meaning that other people are free to use it as they like. This means that other people can use it for free, they can also fork it, and create new casts based upon your content.
+All the screencasts (also called "scrims") that you as a community member create on Scrimba are MIT licensed, meaning that other people are free to use it as they like. This means that other people can use it for free, they can also fork it, and create new casts based upon your content.
 
 It is your responsibility to make sure you have the appropriate copyright to publish the content you publish on Scrimba. Also, you are not allowed to publish other people’s private information without their authorization. You are not allowed to add links to viruses or any other computer programming routine or engine that might be harmful.
 
