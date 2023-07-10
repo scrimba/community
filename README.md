@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-Follow us on: <a href="https://twitter.com/scrimba">Twitter</a> - Say hi to us  at: <a href="mailto:hello@scrimba.com">hello@scrimba.com</a>
+Follow us on: <a href="https://twitter.com/scrimba">Twitter</a> - Say hi to us  at: <a href="mailto:hello@scrimba.com">help@scrimba.com</a>
 </p>
 
 <h1 align="center"></h1>
