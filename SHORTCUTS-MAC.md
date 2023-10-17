@@ -59,7 +59,7 @@
 | Command | Action |
 | --- | --- |
 | `Cmd + F` | Find |
-| `Cmd + H` | Replace |
+| `Option + Cmd + F` | Replace |
 | `F3 / Shift + F3` | Find next/previous |
 | `Alt + Enter` | Select occurrence of Find Match|
 | `Option +  Cmd + C/W/R` | Toggle case-sensitive / whole word / regular expression |
