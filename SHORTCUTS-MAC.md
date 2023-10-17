@@ -78,7 +78,7 @@
 | Command | Action |
 | --- | --- |
 | `Cmd + space` | Trigger suggestions |
-| `Cmd + K Cmd + F` | Format selection |
+| `Shift + Alt + F`  | Format selection |
 | `Alt + F12` | Peek definition |
 | `Cmd + K F12` | Navigate to definition |
 | Hold `Cmd` then hover over symbol | Mini peek definition |
