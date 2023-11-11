@@ -20,6 +20,8 @@ When you’re using the app, we’re collecting data on how you’re interacting
 
 We’re also using Google Analytics. This data is also pseudoanonymized. We’re not sending any personal information to Google Analytics, and we have turned of IP tracking to comply with GDPR.
 
+We use Stripe for payments, and do load their script that does analysis of user behaviour to better detect fraud.
+
 ## What is the legal basis for processing the data?
 
 The legal basis for processing your personal data is your consent when signing up for Scrimba. The only personal data you share with us is the details you share in the signup process.
@@ -34,6 +36,14 @@ The Google Analytics data is stored by Google Analytics. They are committed to c
 
 Read more about that here:
 https://privacy.google.com/businesses/compliance/#?modal_active=none
+
+The Stripe data is stored and handled by Stripe Payments Europe, Limited (“SPEL”), an Irish company operating under Irish law, the data controller responsible for Personal Data collected and processed in relation to Stripe Services.
+
+Read more about Stripe's privacy policy here:
+https://stripe.com/en-gb-us/legal/privacy-center
+
+
+
 
 Other than that, we’re not sharing our data with any third parties.
 
