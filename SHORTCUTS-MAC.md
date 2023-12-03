@@ -77,7 +77,7 @@
 #### <a name="rich-text">Rich text editor</a>
 | Command | Action |
 | --- | --- |
-| `Cmd + space` | Trigger suggestions |
+| `Ctrl + Space` | Trigger suggestions |
 | `Shift + Alt + F`  | Format selection |
 | `Alt + F12` | Peek definition |
 | `Cmd + K F12` | Navigate to definition |
