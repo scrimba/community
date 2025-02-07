@@ -8,7 +8,7 @@
 <p align="center">
   <a href="http://scrimba.com/help">Support</a>&nbsp;&nbsp;&nbsp;
   <a href="http://scrimba.com/terms-of-service">Terms of Service</a>&nbsp;&nbsp;&nbsp;
-  <a href="http://scrimba.com/privacy">Privacy Policy</a>
+  <a href="http://scrimba.com/privacy-policy">Privacy Policy</a>
 </p>
 
 <br>
