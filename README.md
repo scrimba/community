@@ -1,15 +1,14 @@
 <br>
 <h1 align="center">
-	<a href="https://scrimba.com/"><img src="https://i.postimg.cc/02tKBTwD/blue.png" width="500" alt="Scrimba logo"></a>
+	<a href="https://scrimba.com/"><img src="https://i.postimg.cc/05dzY2GJ/avatar-horizontal-light-1024x1024.png" width="150" alt="Scrimba logo"></a>
 	<br>
 <br>
 </h1>
 
 <p align="center">
-	<a href="DOCS.md">Documentation</a>&nbsp;&nbsp;&nbsp;
-  <a href="FAQ.md">FAQ</a>&nbsp;&nbsp;&nbsp;
-	<a href="http://bit.ly/scrimba-discord">Community</a>&nbsp;&nbsp;&nbsp;
-  <a href="TERMS.md">Terms of Sevice</a>
+  <a href="http://scrimba.com/help">Support</a>&nbsp;&nbsp;&nbsp;
+  <a href="http://scrimba.com/terms-of-service">Terms of Service</a>&nbsp;&nbsp;&nbsp;
+  <a href="http://scrimba.com/privacy">Privacy Policy</a>
 </p>
 
 <br>
@@ -24,39 +23,15 @@
 <br>
 
 <p align="center">
-Follow us on: <a href="https://twitter.com/scrimba">Twitter</a> - Say hi to us  at: <a href="mailto:hello@scrimba.com">help@scrimba.com</a>
+<a href="https://bsky.app/profile/scrimba.bsky.social">Bluesky</a> - <a href="https://scrimba.com/discord">Discord</a> - <a href="https://x.com/scrimba">Twitter (X)</a>
 </p>
 
 <h1 align="center"></h1>
 
-Welcome to the community page for [Scrimba](https://scrimba.com/)! This is where you can give us feedback, find answers to questions and keep yourself updated on how we plan to build out the site. Here's a list of the contents of this repository.
+Our goal is to create the best possible coding school at the cost of a gym membership. If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding. Regardless of where they live and the size of their wallets.
 
-### Callout for instructors - <a href="https://docs.google.com/forms/d/e/1FAIpQLScZVtqNbNRwmJ0yLS9_QSwM6e-OZiNsBRtUZUZeLBHuE9UHtw/viewform?usp=sf_link">Apply here!</a>
-We're looking for people we can pay to create full-length Scrimba courses. If you're interested, please fill out this [form.](https://docs.google.com/forms/d/e/1FAIpQLScZVtqNbNRwmJ0yLS9_QSwM6e-OZiNsBRtUZUZeLBHuE9UHtw/viewform?usp=sf_link) 
+To achieve this, we have created a new video format for code screencasts. We call it “scrims”. This format is the backbone of our school. Not only because it results in a superior learning experience. But also because it enables us to iterate more quickly, to attract better teachers, to facilitate better peer-learning, to keep server costs low, and much more.
 
-You can also create content on Scrimba on your own initiative. Check out this <a href="INSTRUCTORS.md">guide</a> for more information.
+If you're a teacher who's interested in creating a course on Scrimba, please visit our Teacher Talent Program page at  [https://scrimba.com/talents](https://scrimba.com/talents).
 
-### _"What does this button do?"_ - <a href="DOCS.md">Documentation</a>
-Check our well-explained documentation if you need explanations of how Scrimba works. In it you'll learn how to record and edit screencasts and how include external JavaScript libraries. So take a quick look on the documentation and you will know all Scrimba's functionality from head to tail.
-
-### Frequently Asked Questions - <a href="FAQ.md">FAQ</a>
-_There's no reason to scratch your head_, if you can't find the answer you're looking for in the Frequently Asked Questions section, please ask us in our support channel on our [Discord server](https://discord.gg/Bs6SAv7).
-
-### Issues  - <a href="https://github.com/scrimba/community/issues">Issues Page</a>
-Do you want to have a say in which feature we build next? To follow and affect our product development, simply head over to the issues of this repository, as we're using these to organize our product development process. Feel free to raise issues if you find bugs or have <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">feature requests</a>.
-
-### Feature Request - <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">Feature Requests</a>
-
-Feature requests are organised as issues, and listed after the number of votes <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">here</a>. To vote for a feature, give it a :+1:. Have a nice idea for Scrimba? Create a new <a href="https://github.com/scrimba/community/issues/new">feature request</a>. The Scrimba team will give your request a _`feature-request`_ label as soon as possible.
-
-### _Splat!_ -  <a href="https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Abug">Bug Report</a>
-To submit a bug report, <a href="https://github.com/scrimba/community/issues/new">create an issue</a>. The Scrimba team will give it the label *bug* as soon as possible. Please check the [bug reports](https://github.com/scrimba/community/issues?q=is%3Aopen+is%3Aissue+label%3Abug) before submitting one, in case it's already been submitted.
-
-### TOS - <a href="TERMS.md">Terms of Service</a>
-We try to keep our terms as simple as possible. If you have any questions about them, please send us an email (<a href="mailto:help@scrimba.com">hello@scrimba.com</a>) or ask in the [Discord Chat](https://discord.gg/Bs6SAv7)
-
-### Contact us
-If you want to contact us, please write in our support channel on our [Discord server](https://discord.gg/Bs6SAv7) Alternatively, send us an email (<a href="mailto:help@scrimba.com">help@scrimba.com</a>).
-
-### <a href="PRIVACY.md">Privacy Policy</a>
-This document describes how we handle personal data at Scrimba.com. It also contains contact information in case you want us to delete your data. It’s written with clarity in mind, so it should be easy to follow.
+Scrimba AS is a remote company based in Oslo, Norway. We're backed by StartupLab, Nordic Makers, Alliance Venture and Amasia.
