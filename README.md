@@ -8,8 +8,10 @@
 <p align="center">
   <a href="http://scrimba.com/help">Support</a>&nbsp;&nbsp;&nbsp;
   <a href="http://scrimba.com/terms-of-service">Terms of Service</a>&nbsp;&nbsp;&nbsp;
-  <a href="http://scrimba.com/privacy-policy">Privacy Policy</a>
+  <a href="http://scrimba.com/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scrimba.com/accessibility-statement">Accessbility Statement</a>&nbsp;&nbsp;&nbsp;
 </p>
+
 
 <br>
 
