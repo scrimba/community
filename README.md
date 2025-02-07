@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">
-	<a href="https://scrimba.com/"><img src="https://i.postimg.cc/gJM8Kz8p/logo-long.png" width="150" alt="Scrimba logo"></a>
+	<a href="https://scrimba.com/"><img src="https://i.postimg.cc/gJM8Kz8p/logo-long.png" width="300" alt="Scrimba logo"></a>
 	<br>
 <br>
 </h1>
