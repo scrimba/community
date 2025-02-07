@@ -35,7 +35,4 @@ If you are addressed for saying something that is found to be offensive, we ask 
 
 ⚠️ Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be banned from the Scrimba Discord for 24 hours and issued a final warning.  Upon repeat offences, or if the community believes you are not acting in good faith, you may be banned permanently.
 
-If you experience abuse, harassment, discrimination, or feel unsafe, please let Alex and/or Leanne from the Scrimba know:
-
-- Alex from Scrimba ([alex@scrimba.com](mailto:alex@scrimba.com))
-- Leanne from Scrimba ([leanne@scrimba.com](mailto:leanne@scrimba.com))
+If you experience abuse, harassment, discrimination, or feel unsafe, please let us know at https://scrimba.com/help
