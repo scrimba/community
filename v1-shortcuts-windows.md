@@ -1,10 +1,10 @@
 <h1 align="center">
-	<a href="https://scrimba.com/"><img src="https://i.postimg.cc/02tKBTwD/blue.png" width="500" alt="Scrimba logo"></a>
+	<a href="https://scrimba.com/"><img src="https://i.postimg.cc/gJM8Kz8p/logo-long.png" width="300" alt="Scrimba logo"></a>
 	<br>
 <br>
 </h1>
 
-# Windows: Scrimba keyboard shortcuts
+# Windows: [V1] Scrimba keyboard shortcuts
 
 - [General](#general)
 - [Selection](#selection)
